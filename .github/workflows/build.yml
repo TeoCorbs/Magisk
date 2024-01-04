@@ -1,4 +1,4 @@
-name: Magisk Build
+``doc/internals/contributing.rst``name: Magisk Build
 
 on:
   push:
